@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod olleh mirror hello
+chmod --mirror olleh hello
