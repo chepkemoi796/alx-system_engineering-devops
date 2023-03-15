@@ -1,2 +1,2 @@
-#!/bin/binary
+#!/bin/bash
 echo "$((10#2))=$BINARY"
